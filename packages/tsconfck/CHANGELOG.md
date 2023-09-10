@@ -1,5 +1,11 @@
 # tsconfck
 
+## 3.0.0-next.8
+
+### Patch Changes
+
+- fix(errors): cache errors instead of evicting cache value on error ([#125](https://github.com/dominikg/tsconfck/pull/125))
+
 ## 3.0.0-next.7
 
 ### Major Changes
